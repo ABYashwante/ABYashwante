@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ABYashwante
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c/c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
